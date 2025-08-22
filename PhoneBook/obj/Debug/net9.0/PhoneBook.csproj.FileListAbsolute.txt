@@ -1,0 +1,14 @@
+C:\Users\BS01601\Downloads\CODE\PhoneBook\bin\Debug\net9.0\PhoneBook.exe
+C:\Users\BS01601\Downloads\CODE\PhoneBook\bin\Debug\net9.0\PhoneBook.deps.json
+C:\Users\BS01601\Downloads\CODE\PhoneBook\bin\Debug\net9.0\PhoneBook.runtimeconfig.json
+C:\Users\BS01601\Downloads\CODE\PhoneBook\bin\Debug\net9.0\PhoneBook.dll
+C:\Users\BS01601\Downloads\CODE\PhoneBook\bin\Debug\net9.0\PhoneBook.pdb
+C:\Users\BS01601\Downloads\CODE\PhoneBook\obj\Debug\net9.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\CODE\PhoneBook\obj\Debug\net9.0\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\CODE\PhoneBook\obj\Debug\net9.0\PhoneBook.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\CODE\PhoneBook\obj\Debug\net9.0\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\CODE\PhoneBook\obj\Debug\net9.0\PhoneBook.dll
+C:\Users\BS01601\Downloads\CODE\PhoneBook\obj\Debug\net9.0\refint\PhoneBook.dll
+C:\Users\BS01601\Downloads\CODE\PhoneBook\obj\Debug\net9.0\PhoneBook.pdb
+C:\Users\BS01601\Downloads\CODE\PhoneBook\obj\Debug\net9.0\PhoneBook.genruntimeconfig.cache
+C:\Users\BS01601\Downloads\CODE\PhoneBook\obj\Debug\net9.0\ref\PhoneBook.dll
